@@ -14,9 +14,6 @@ website:
       - icon: twitter
         href: https://x.com/i9wa4_
 
-format:
-  html:
-    theme: slate
-
 lang: en
 date-format: iso
+theme: flatly

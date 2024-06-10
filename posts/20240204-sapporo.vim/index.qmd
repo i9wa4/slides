@@ -11,6 +11,7 @@ format:
     slide-number: true
     smaller: false
     standalone: true
+    theme: white
 jupyter: python3
 ---
 
