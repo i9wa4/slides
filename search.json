@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "posts/20240204-sapporo.vim/index.html#自己紹介",
+    "href": "posts/20240204-sapporo.vim/index.html#自己紹介",
+    "title": "Sapporo.vim",
+    "section": "1. 自己紹介",
+    "text": "1. 自己紹介\n\n【HN】 i9wa4 (いくわよ)\n【札幌在住歴】 9年\n【仕事】 直近1.5年は AWS 機械学習基盤の業務\n【最近の Vim 活】\n\nプラグインマネージャー dein.vim から dpp.vim へ移行\nvim-lsp 導入\nefm-langserver 導入"
+  },
+  {
+    "objectID": "posts/20240204-sapporo.vim/index.html#本日のタスク",
+    "href": "posts/20240204-sapporo.vim/index.html#本日のタスク",
+    "title": "Sapporo.vim",
+    "section": "2. 本日のタスク",
+    "text": "2. 本日のタスク\n\nDocker / Kubernetes の入門書を読む"
+  },
+  {
+    "objectID": "posts/20240204-sapporo.vim/index.html#結果",
+    "href": "posts/20240204-sapporo.vim/index.html#結果",
+    "title": "Sapporo.vim",
+    "section": "3. 結果",
+    "text": "3. 結果\n\n何となく compose.yml と Dockerfile を触ってた状態だったので頭の中を整理できたかも\nちょっと古い本だったので Compose Spec について追加で調べた\n\ndocker-compose (旧) と docker compose (新) があり検索すると前者の情報の方が多い……\n\nKubernetes (Minikube) の章は読めてないのでは帰宅後に"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Slides",
@@ -7,45 +28,24 @@
     "text": "Sapporo.vim\n\n\n\n\n\n\n\n\n2024-02-04\n\n\n\n\n\n\n\nSapporo.vim\n\n\n\n\n\n\n\n\n2023-12-16\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "private/20231216-sapporo.vim/index.html#自己紹介",
-    "href": "private/20231216-sapporo.vim/index.html#自己紹介",
+    "objectID": "posts/20231216-sapporo.vim/index.html#自己紹介",
+    "href": "posts/20231216-sapporo.vim/index.html#自己紹介",
     "title": "Sapporo.vim",
     "section": "1. 自己紹介",
     "text": "1. 自己紹介\n\n[HN] i9wa4 (いくわよ)\n[札幌在住歴] 9年\n[仕事] 直近1.5年は AWS データ分析基盤業務 (MLOps)\n[最近の Vim 活]\n\nLinter 利用構成変更 “mason.nvim + null-ls.nvim” -&gt; “makeprg”\nMarkdown Formatter (Denops プラグイン) 作成"
   },
   {
-    "objectID": "private/20231216-sapporo.vim/index.html#本日のタスク",
-    "href": "private/20231216-sapporo.vim/index.html#本日のタスク",
+    "objectID": "posts/20231216-sapporo.vim/index.html#本日のタスク",
+    "href": "posts/20231216-sapporo.vim/index.html#本日のタスク",
     "title": "Sapporo.vim",
     "section": "2. 本日のタスク",
     "text": "2. 本日のタスク\n\ndein.vim -&gt; dpp.vim 移行\nVim の LSP 環境整備\nefm-langserver 導入\nvital.vim の中身チェック\nddu.vim 導入\nfish 導入"
   },
   {
-    "objectID": "private/20231216-sapporo.vim/index.html#本日の成果",
-    "href": "private/20231216-sapporo.vim/index.html#本日の成果",
+    "objectID": "posts/20231216-sapporo.vim/index.html#本日の成果",
+    "href": "posts/20231216-sapporo.vim/index.html#本日の成果",
     "title": "Sapporo.vim",
     "section": "3. 本日の成果",
     "text": "3. 本日の成果\n\ndein.vim -&gt; dpp.vim 移行\n\n\n遅延なしプラグインの起動までできた\nこのあとは遅延起動プラグイン対応のために設定ファイル (TypeScript) を書きたい"
-  },
-  {
-    "objectID": "private/20240204-sapporo.vim/index.html#自己紹介",
-    "href": "private/20240204-sapporo.vim/index.html#自己紹介",
-    "title": "Sapporo.vim",
-    "section": "1. 自己紹介",
-    "text": "1. 自己紹介\n\n【HN】 i9wa4 (いくわよ)\n【札幌在住歴】 9年\n【仕事】 直近1.5年は AWS 機械学習基盤の業務\n【最近の Vim 活】\n\nプラグインマネージャー dein.vim から dpp.vim へ移行\nvim-lsp 導入\nefm-langserver 導入"
-  },
-  {
-    "objectID": "private/20240204-sapporo.vim/index.html#本日のタスク",
-    "href": "private/20240204-sapporo.vim/index.html#本日のタスク",
-    "title": "Sapporo.vim",
-    "section": "2. 本日のタスク",
-    "text": "2. 本日のタスク\n\nDocker / Kubernetes の入門書を読む"
-  },
-  {
-    "objectID": "private/20240204-sapporo.vim/index.html#結果",
-    "href": "private/20240204-sapporo.vim/index.html#結果",
-    "title": "Sapporo.vim",
-    "section": "3. 結果",
-    "text": "3. 結果\n\n何となく compose.yml と Dockerfile を触ってた状態だったので頭の中を整理できたかも\nちょっと古い本だったので Compose Spec について追加で調べた\n\ndocker-compose (旧) と docker compose (新) があり検索すると前者の情報の方が多い……\n\nKubernetes (Minikube) の章は読めてないのでは帰宅後に"
   }
 ]
