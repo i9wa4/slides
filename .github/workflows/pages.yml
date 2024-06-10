@@ -33,6 +33,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+      enablement: true
     steps:
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v3
