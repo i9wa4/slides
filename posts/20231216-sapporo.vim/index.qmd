@@ -11,7 +11,7 @@ format:
     slide-number: true
     smaller: false
     standalone: true
-# jupyter: python3
+jupyter: python3
 ---
 
 ## 1. 自己紹介
