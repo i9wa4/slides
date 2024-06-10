@@ -16,7 +16,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: slate
 
 lang: en
 date-format: iso
