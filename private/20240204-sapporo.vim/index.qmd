@@ -6,7 +6,7 @@ format:
   revealjs:
     embed-resources: true
     incremental: false
-    logo: ../assets/common/icon_hhkb.jpeg
+    logo: ../../assets/common/icon_hhkb.jpeg
     slide-level: 2
     slide-number: true
     smaller: false
