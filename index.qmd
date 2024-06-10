@@ -7,4 +7,5 @@ listing:
     - "title"
   type: default
   fields: [date, title]
+theme: slate
 ---
