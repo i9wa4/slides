@@ -1,0 +1,36 @@
+---
+title: Sapporo.vim
+author: i9wa4
+date: 2024/02/04
+format:
+  revealjs:
+    embed-resources: true
+    incremental: false
+    logo: ../assets/common/icon_hhkb.jpeg
+    slide-level: 2
+    slide-number: true
+    smaller: false
+    standalone: true
+jupyter: python3
+---
+
+## 1. 自己紹介
+
+- **【HN】** i9wa4 (いくわよ)
+- **【札幌在住歴】** 9年
+- **【仕事】** 直近1.5年は AWS 機械学習基盤の業務
+- **【最近の Vim 活】**
+    - プラグインマネージャー dein.vim から dpp.vim へ移行
+    - vim-lsp 導入
+    - efm-langserver 導入
+
+## 2. 本日のタスク
+
+1. Docker / Kubernetes の入門書を読む
+
+## 3. 結果
+
+1. 何となく compose.yml と Dockerfile を触ってた状態だったので頭の中を整理できたかも
+1. ちょっと古い本だったので Compose Spec について追加で調べた
+    - `docker-compose` (旧) と `docker compose` (新) があり検索すると前者の情報の方が多い……
+1. Kubernetes (Minikube) の章は読めてないのでは帰宅後に

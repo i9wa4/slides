@@ -1,0 +1,10 @@
+---
+title: "Slides"
+listing:
+  contents: public
+  sort:
+    - "date desc"
+    - "title"
+  type: default
+  fields: [date, title]
+---
