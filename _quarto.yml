@@ -7,10 +7,8 @@ website:
   site-url: "https://i9wa4.github.io/slides/"
   navbar:
     left:
-      - href: https://github.com/i9wa4
-        icon: github
-      - href: https://x.com/i9wa4_
-        icon: twitter-x
+      - href: "https://i9wa4.github.io"
+        text: "i9wa4's page"
   page-footer:
     left: "Built with [Quarto](https://quarto.org/)"
     center: "&copy;2024, i9wa4"
