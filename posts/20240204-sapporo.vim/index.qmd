@@ -1,5 +1,5 @@
 ---
-title: Sapporo.vim
+title: "Sapporo.vim 自己紹介"
 author: i9wa4
 date: 2024/02/04
 format:
@@ -12,6 +12,7 @@ format:
     smaller: false
     standalone: true
     theme: white
+    footer: "https://connpass.com/event/307552/"
 jupyter: python3
 ---
 
