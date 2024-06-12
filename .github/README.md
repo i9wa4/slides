@@ -1,5 +1,15 @@
 # slides
 
-Built with [Quarto](https://quarto.org/)
+<https://i9wa4.github.io/slides>
 
-[Quartoでスライドを作ってGitHub Pagesで公開する #GitHubActions - Qiita](https://qiita.com/cm-ayf/items/512728ebea65467ba874)
+## 1. How to render this page locally
+
+```sh
+quarto render
+```
+
+## 2. How to deploy this page
+
+```sh
+quarto publish
+```
