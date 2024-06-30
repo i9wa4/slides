@@ -1,5 +1,5 @@
 ---
-title: "Slides"
+title: "Slides test"
 listing:
   contents: posts
   sort:
@@ -8,5 +8,3 @@ listing:
   type: default
   fields: [date, title]
 ---
-
-test
