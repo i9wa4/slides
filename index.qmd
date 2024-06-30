@@ -8,3 +8,5 @@ listing:
   type: default
   fields: [date, title]
 ---
+
+test
