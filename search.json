@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Slides",
+    "section": "",
+    "text": "test\n\n\n\n\n\n\n\n\n\nSapporo.vim 自己紹介\n\n\n\n\n\n\n\n\n2024-02-04\n\n\n\n\n\n\n\nSapporo.vim 自己紹介\n\n\n\n\n\n\n\n\n2023-12-16\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "posts/20240204-sapporo.vim/index.html#自己紹介",
     "href": "posts/20240204-sapporo.vim/index.html#自己紹介",
     "title": "Sapporo.vim 自己紹介",
@@ -19,13 +26,6 @@
     "title": "Sapporo.vim 自己紹介",
     "section": "3. 結果",
     "text": "3. 結果\n\n何となく compose.yml と Dockerfile を触ってた状態だったので頭の中を整理できたかも\nちょっと古い本だったので Compose Spec について追加で調べた\n\ndocker-compose (旧) と docker compose (新) があり検索すると前者の情報の方が多い……\n\nKubernetes (Minikube) の章は読めてないのでは帰宅後に\n\n\n\n\n\nhttps://connpass.com/event/307552/"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Slides",
-    "section": "",
-    "text": "Sapporo.vim 自己紹介\n\n\n\n\n\n\n\n\n2024-02-04\n\n\n\n\n\n\n\nSapporo.vim 自己紹介\n\n\n\n\n\n\n\n\n2023-12-16\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/20231216-sapporo.vim/index.html#自己紹介",
