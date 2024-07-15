@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: "docs"
 
 website:
   title: "i9wa4's slides"
@@ -8,16 +8,15 @@ website:
   navbar:
     left:
       - href: "https://i9wa4.github.io/i9wa4"
-        text: About
+        text: "About"
   page-footer:
     left: "Built with [Quarto](https://quarto.org/)"
     center: "&copy;2024, i9wa4"
     right:
       - icon: github
-        href: https://github.com/i9wa4
+        href: "https://github.com/i9wa4"
       - icon: twitter-x
-        href: https://x.com/i9wa4_
+        href: "https://x.com/i9wa4_"
 
-lang: en
 date-format: iso
 theme: flatly
