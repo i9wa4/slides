@@ -1,6 +1,5 @@
 ---
 listing:
-  categories: numbered
   contents: ["posts"]
   feed: true
   fields: [date, title]
