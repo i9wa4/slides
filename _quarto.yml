@@ -2,6 +2,11 @@ project:
   type: website
   output-dir: "docs"
 
+date-format: iso
+theme:
+  light: flatly
+  dark: darkly
+
 website:
   title: "i9wa4's slides"
   site-url: "https://i9wa4.github.io/slides/"
@@ -17,6 +22,9 @@ website:
         href: "https://github.com/i9wa4"
       - icon: twitter-x
         href: "https://x.com/i9wa4_"
-
-date-format: iso
-theme: flatly
+      - icon: rss
+        href: "index.xml"
+  twitter-card:
+    creator: "@i9wa4_"
+    site: "@i9wa4_"
+  open-graph: true
