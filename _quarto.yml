@@ -10,10 +10,13 @@ theme:
 website:
   title: "i9wa4's slides"
   site-url: "https://i9wa4.github.io/slides/"
-  image: "./assets/common/icon_hhkb2.jpg"
-  favicon: "./assets/common/icon_hhkb2.jpg"
+  favicon: "/assets/common/icon_hhkb2.jpg"
+  image: "/assets/common/icon_hhkb2.jpg"
   search: true
-  twitter-card: true
+  twitter-card:
+    card-style: summary
+    creator: "@i9wa4_"
+    site: "@i9wa4_"
   open-graph: true
   navbar:
     left:
