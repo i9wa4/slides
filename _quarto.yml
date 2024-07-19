@@ -14,7 +14,6 @@ website:
     left:
       - href: "https://i9wa4.github.io/i9wa4"
         text: "About"
-    right:
       - icon: github
         href: "https://github.com/i9wa4"
       - icon: twitter-x
@@ -29,7 +28,5 @@ website:
         href: "https://x.com/i9wa4_"
       - icon: rss
         href: "index.xml"
-  twitter-card:
-    creator: "@i9wa4_"
-    site: "@i9wa4_"
+  twitter-card: true
   open-graph: true
