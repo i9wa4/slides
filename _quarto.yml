@@ -10,6 +10,11 @@ theme:
 website:
   title: "i9wa4's slides"
   site-url: "https://i9wa4.github.io/slides/"
+  image: "./assets/common/icon_hhkb2.jpg"
+  favicon: "./assets/common/icon_hhkb2.jpg"
+  search: true
+  twitter-card: true
+  open-graph: true
   navbar:
     left:
       - href: "https://i9wa4.github.io/i9wa4"
@@ -28,5 +33,3 @@ website:
         href: "https://x.com/i9wa4_"
       - icon: rss
         href: "index.xml"
-  twitter-card: true
-  open-graph: true
